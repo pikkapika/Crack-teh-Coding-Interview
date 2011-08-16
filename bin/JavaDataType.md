@@ -1,5 +1,7 @@
 # Primitive Data Types
+
 http://download.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+
 * byte
  * 8-bit, -128 to 127
 * short
